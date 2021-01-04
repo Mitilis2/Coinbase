@@ -1,0 +1,96 @@
+body{
+    background-color: #1652F0;
+    font-family: "Helvetica Neue", sans-serif;
+    box-sizing: border-box;
+}
+nav{
+    padding-left: 6.5%;
+}
+a {
+    text-decoration: none;
+}   
+.logo{
+    font-weight: 700;
+    padding-top: 10000px;
+}
+
+.links {
+    color: white;
+    list-style: none;
+    padding: 1.5em;
+    display: inline;
+}
+.nav {
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: -1.8em;
+    display: inline;
+    
+}
+
+.free{
+    background-color: #55b26b;
+    border-radius: 7%;
+    padding: 0.5em;
+    margin-left: 1.5em;
+}
+
+.start{
+    margin-left: 24em;
+}
+
+.get{
+    border: 1px solid white;
+    padding: 1em;
+    margin-left: 3em;
+    border-radius: 10%;
+}
+img{
+    height: 6px;
+}
+.main{
+    text-align: center;
+    color: white;
+}
+
+.create{
+    font-size: 1.4em;
+}
+.form-section{
+    height: 500px;
+    width: 350px; 
+    background-color: white;
+    margin-left: 40%;
+}
+
+input {
+    padding: 1.2em;
+}
+.state{
+   display: block;
+}
+
+.email{
+    display: block;
+}
+select{
+    width: 100%;
+    padding: 1em;
+}
+.accountlogin{
+    margin-left: 42%;
+    color: white;
+    font-family: "Helvetica Neue", sans-serif;
+    font-weight: bolder;
+    font-size: 16px;
+}
+.accountlogin a{
+    text-decoration: none;
+}
+
+.accountlogin a:hover{
+    color: blue;
+    transition: 0.5s ease-in;
+
+}
+
